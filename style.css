@@ -1,0 +1,44 @@
+/*置中對齊*/
+
+* {
+    margin: 0 auto;
+    padding: 0.5em;
+}
+
+html {
+    background-color: #d3d6db
+}
+
+div {
+    width: 60%;
+    background-color: #fff;
+}
+
+p,
+table,
+h1 {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 96%
+}
+
+thead {
+    font-size: 30px;
+    background-color: #3b5998;
+    color: white
+}
+
+td {
+    background-color: #f6f7f9
+}
+
+.prob {
+    background: white;
+}
+
+span {
+    color: red;
+    font-size: 40px
+}
